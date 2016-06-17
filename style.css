@@ -1,0 +1,217 @@
+body#layout .topad{height:120px}
+#navbar-iframe{height:0; visibility:hidden; display:none}
+#content{width:670px; margin-left:10px; float:left; display:inline; padding:20px 0 10px}
+img.postim{background:#000; float:left; width:200px; height:150px; margin:5px 10px 10px 0; padding:10px}
+.postleft{width:250px; float:left; overflow:hidden}
+.postleft img{background:#3b7585; margin:8px; padding:7px}
+.postleft h2{font-family:Georgia,tahoma,century gothic,sans-serif; font-size:26px; line-height:150%; text-align:right; color:#2a3103; font-weight:400; margin:0; padding:10px 0}
+.postleft h2 a:link, .postleft h2 a:visited{color:#572406}
+.leftmeta{height:22px; background:#9f9373; line-height:22px; margin-bottom:5px; text-align:center; color:#fff; text-transform:uppercase; font-size:10px; float:right; text-shadow:1px 1px 1px #5F5C53; padding:0 10px}
+.bigcom{height:22px; background:#ACC426; line-height:22px; margin-bottom:5px; text-align:center; color:#fff; text-transform:uppercase; font-size:10px; float:right; text-shadow:1px 1px 1px #7a8c12; padding:0 10px}
+.fullpost{height:22px; background:#C0221A; line-height:22px; text-align:center; color:#fff; text-transform:uppercase; font-size:10px; float:right; text-shadow:1px 1px 1px #790505; margin:10px; padding:0 10px}
+.arrow{position:absolute; top:50px; left:-10px; height:30px; width:10px}
+.postright{width:400px; float:right; background:#f1ead6; margin-right:10px; position:relative; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px}
+.categ a:link, .categ a:visited{font-size:10px; color:#fff; float:right; margin-left:5px; margin-bottom:5px; background:#FFA200; height:20px; line-height:20px; text-transform:uppercase; text-shadow:1px 1px 1px #AF6F00; padding:0 10px}
+.data{margin-bottom:10px; height:20px}
+.left{width:300px; float:right; padding:20px 0 0}
+.sidebar h2{height:35px; line-height:35px; color:#fff; font-size:18px; font-family:Georgia,Arial,Tahoma,century gothic,sans-serif; font-weight:400; text-shadow:1px 1px 1px #000; padding:5px 0 5px 20px}
+.sidebar{float:left; width:280px; font-size:12px; font-family:Georgia,Arial,Tahoma,Century gothic,sans-serif; color:#999; padding-bottom:10px; background:url(http://1.bp.blogspot.com/_9FoH-7_4Le0/S8y4iYvBsII/AAAAAAAABTo/sN_dlvRiNRs/s1600/sideblock.png); display:inline; overflow:hidden; border:1px solid #252525; margin:0 0 10px}
+.sidebar ul{list-style-type:none; padding:0}
+.sidebar li{list-style-type:none; margin:0; padding:0}
+.sidebar .widget-content{list-style-type:none; background-repeat:no-repeat; margin:0 10px; padding:0 0 10px 10px}
+.sidebar ul li{color:#999; text-decoration:none; display:block; border-bottom:1px solid #222; padding:0}
+.sidebar ul li a:link, .sidebar ul li a:visited{height:100%; line-height:28px; width:260px; list-style-type:none; overflow:hidden; color:#BBB}
+.sidebar ul li a:hover{color:#EA1D22}
+img.recent_thumb{padding:2px; width:70px; height:70px; border:0; float:left; margin:5px 10px 10px 0; border:1px solid #ccc}
+.recent_posts_with_thumbs{float:left; width:100%; min-height:100px; margin:0px 0px 5px 0px; padding:0; font-size:12px}
+ul.recent_posts_with_thumbs li{padding-bottom:5px; padding-top:5px; min-height:75px}
+.recent_posts_with_thumbs a{text-decoration:none}
+.recent_posts_with_thumbs strong{font-size:10px}
+.recent_posts_with_thumbs h4{font-size:14px; color:fff}
+#w2b-mashable{width:250px; margin:auto; padding:0}
+.w2b-googleplus{height:57px}
+.w2b-facebook{background:#FFF; border:1px solid #DCDCDC; margin-top:-2px; padding:5px 10px}
+.w2b-gplusone{background-color:#f5fcfe; border:1px solid #d8e6eb; border-top:1px solid white; font-size:.87em; color:black; padding:9px 0 0 11px; line-height:24px; height:30px}
+.w2b-gplusone span{display:inline-block; vertical-align:middle; height:20px; margin-top:-17px; font-size:11px; font-family:"Arial","Helvetica",sans-serif}
+.w2b-twitter{background-color:#eef9fd; border:1px solid #c7dbe2; border-top:0}
+.w2b-twitter a.twitter-follow-button{display:block}
+.w2b-twitter iframe{margin:9px 11px}
+.w2b-emailbox{background-color:#E3EDF4; border:1px solid #b6d0da; border-top:1px solid #eff5f7; padding:12px 16px; overflow:hidden}
+.w2b-emailbox form{width:100%; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; box-sizing:border-box; border:0}
+.w2b-emailbox input.emailu{float:left; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; box-sizing:border-box; border:0; color:#999; padding:7px 10px 8px; width:100%; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; font-size:13px}
+.w2b-emailbox input.emailu:focus{color:#333}
+.w2b-emailbox input.submitu{-webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; color:white; padding:7px 14px; font-weight:bold; font-size:12px; float:right; cursor:pointer}
+.w2b-emailbox input.submitu:hover{text-decoration:none}
+.w2bRed{border:1px solid #A0350E; text-shadow:#A0350E 1px 1px 0; background:#ed7347; background:-webkit-linear-gradient(top,#ed7347 0%,#c63800 100%); background:-moz-linear-gradient(top,#ed7347 0%,#c63800 100%); background:-o-linear-gradient(top,#ed7347 0%,#c63800 100%); background:-ms-linear-gradient(top,#ed7347 0%,#c63800 100%); background:linear-gradient(top,#ed7347 0%,#c63800 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed7347',endColorstr='#c63800',GradientType=0 )}
+.w2bRed:hover{background:#ed9476; background:-moz-linear-gradient(top,#ed9476 0%,#d14410 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ed9476),color-stop(100%,#d14410)); background:-webkit-linear-gradient(top,#ed9476 0%,#d14410 100%); background:-o-linear-gradient(top,#ed9476 0%,#d14410 100%); background:-ms-linear-gradient(top,#ed9476 0%,#d14410 100%); background:linear-gradient(top,#ed9476 0%,#d14410 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed9476',endColorstr='#d14410',GradientType=0 )}
+.w2b-moresubs{background:none repeat scroll 0 0 #EBEBEB; border-style:solid; border-width:1px; border-color:#fff #ccc #ccc; padding:3px 8px 3px 3px; text-align:right; font-size:7px; letter-spacing:1px}
+.w2b-moresubs a{display:inline-block; font-weight:bold; color:#1E598E; text-decoration:none; text-shadow:1px 1px 1px #fff}
+li.recentcomments{padding-left:10px}
+#commentsbox{width:670px; margin:0}
+ol.commentlist{clear:both; overflow:hidden; list-style:none; margin:0}
+ol.commentlist li{line-height:18px; background:#F1EAD6; margin:10px 0; padding:10px}
+ol.commentlist li .comment-author{color:#eee}
+ol.commentlist li .comment-author a:link, ol.commentlist li .comment-author a:visited{text-shadow:1px 1px 1px #5F5C53; color:#F1EAD6; font-weight:700; text-decoration:none!important}
+cite.fn{color:#fff; font-style:normal}
+ol.commentlist li div.vcard .avatar-image-container img{background:url(http://3.bp.blogspot.com/_9FoH-7_4Le0/S8y5D031GeI/AAAAAAAABU4/I0ae8tQMJvs/s1600/profile-image_32x32.png) no-repeat; width:32px; height:32px; float:right; border:4px solid #fff}
+ol.commentlist li .comment-author .avatar{float:right; border:1px solid #ddd; background:#fff; padding:3px}
+ol.commentlist li .comment-meta{font-size:10px; color:#777}
+ol.commentlist li .comment-meta a{color:#777; text-decoration:none!important}
+ol.commentlist li p{line-height:22px; margin-top:5px; color:#ccc; font-size:12px}
+ol.commentlist li .reply{margin-top:10px; font-size:10px}
+ol.commentlist li .reply a{background:#EA1D22; color:#fff; text-decoration:none; padding:3px 10px}
+ol.commentlist li ul.children{list-style:none; text-indent:0; margin:1em 0 0}
+.comment-nav{height:20px; padding:5px}
+#respond{background:url(http://1.bp.blogspot.com/_9FoH-7_4Le0/S8y4iYvBsII/AAAAAAAABTo/sN_dlvRiNRs/s1600/sideblock.png); border:1px solid #252525; margin:20px 0; padding:20px}
+#respond h3{font-size:18px; font-family:Georgia,Arial,Century gothic,Tahoma,sans-serif; color:#F1EAD6; text-shadow:1px 1px 1px #5F5C53; padding-bottom:10px}
+#commentform p{color:#777; margin:5px 0}
+#respond label{display:block; font-weight:700; color:#eee; text-shadow:1px 1px 1px #CFC4A8; padding:5px 0}
+#respond label small{font-size:10px}
+#respond input{background:#2C2C2C; border:1px solid #333; color:#F7EEE9; margin:0 10px 10px 0; padding:5px 0}
+#commentform input{width:99%}
+#respond input#commentSubmit{width:100px; background:#EA1D22; border:1px solid #BF0F0B; text-shadow:1px 1px 1px #5F5C53; color:#fff; font-weight:700; cursor:pointer; margin:10px 0; padding:5px 0}
+textarea#comment{background:#2C2C2C; border:1px solid #333; width:99%; color:#F7EEE9; margin:0; padding:5px 0}
+html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption{vertical-align:baseline; outline:none; margin:0; padding:0}
+b, i, hr, u, center, menu, layer, s, strike, font, xmp{vertical-align:baseline; outline:none; font-size:100%; font-weight:400; font-style:normal; background:transparent; border:none; text-decoration:none; margin:0; padding:0}
+font{color:#333}
+center{text-align:left}
+body{background:#1c1c1c url(http://2.bp.blogspot.com/_9FoH-7_4Le0/S8y4jtLJJ-I/AAAAAAAABUY/_aGYabQKMrs/s1600/body2.png) top repeat-x; font-family:Helvetica,Arial,Verdana,sans-serif; font-size:12px; line-height:1.5em; color:#BBB; margin:0; padding:0}
+.home{background:#1c1c1c url(http://4.bp.blogspot.com/_9FoH-7_4Le0/S8y4jaswLFI/AAAAAAAABUQ/iJSiNBFPF18/s1600/body.png) top repeat-x}
+a{color:#fff; text-decoration:none}
+a:visited{color:#fff}
+a:hover, a:active{color:#EA1D22; text-decoration:none}
+h1, h2, h3, h4, h5, h6{line-height:1.5em; font-weight:normal; text-transform:uppercase}
+h1{font-size:30px}
+h2{font-size:23px}
+h3{font-size:20px}
+h4{font-size:16px}
+h5{font-size:14px}
+h6{font-size:12px}
+ul{list-style:square}
+blockquote{font-style:italic; color:#555; background:#000; border-left:1px solid #242424; border-top:1px solid #242424; padding:10px}
+blockquote em{font-style:normal}
+pre{background:#f9f9f9; border:1px solid #ccc; padding:9px}
+code{background:#eee; padding:0 3px}
+pre code{background:transparent}
+.clear{clear:both}
+img{max-width:100%}
+a img{max-width:100%; border:none}
+img.centered{display:block; margin-left:auto; margin-right:auto; margin-bottom:10px; padding:0}
+img.alignnone{display:inline; background:#E4E4E4; border:1px solid #fff; margin:0 0 10px; padding:5px}
+.aligncenter{display:block; margin-left:auto; margin-right:auto; margin-bottom:10px}
+.alignright{float:right; margin:0 0 10px 10px}
+.alignleft{float:left; margin:0 10px 10px 0}
+#casing{margin:0}
+#wrapper{width:1000px; margin:0 auto}
+#topbar{width:1000px}
+.today{float:left; text-transform:uppercase; font-size:11px; height:18px; line-height:18px; padding-left:20px; margin:10px 0 10px 20px}
+.feeds{float:right; margin-right:20px; text-transform:uppercase}
+.feeds ul li{float:right; list-style:none; line-height:18px; padding-left:20px; font-size:11px; margin:10px 0 10px 10px}
+.feeds a:link, .feeds a:visited{color:#4C393A}
+#header{height:110px; width:1000px; overflow:hidden}
+.blognames{float:left; width:auto; font-family:Georgia,Tahoma,Century gothic,Tahoma,sans-serif}
+h1#blog-title{font-size:36px; font-weight:400; margin:0 0 0 10px; padding:20px 0 0}
+h1#blog-title a:link, h1#blog-title a:visited{color:#ccc; text-shadow:1px 1px 1px #000}
+h2#blog-desc{font:16px Georgia,Tahoma,Century gothic,verdana,sans-serif; width:600px; color:#d2060e; text-shadow:1px 1px 1px #000; margin:0 0 0 10px; padding:5px 0 0}
+#foxmenucontainer{height:auto; display:block; font:12px Verdana,Century gothic,Tahoma,sans-serif; font-weight:400; text-transform:uppercase; padding:0}
+#menu{width:1000px; height:auto; overflow:hidden; margin:0; padding:0}
+#menu li a, #menu li a:link, #menu li a:visited{display:block; line-height:50px; color:#999; text-shadow:1px 1px 1px #000; margin:0; padding:0 10px}
+#menu li a:hover, #menu li a:active{background:url(http://1.bp.blogspot.com/_9FoH-7_4Le0/S8y4kBQesII/AAAAAAAABUo/TLIzCzPynlY/s1600/menua.png) repeat-x; color:#fff; text-decoration:none; margin:0}
+#menu li li a, #menu li li a:link, #menu li li a:visited{background:#EA1D22; width:150px; color:#ddd; font-weight:400; float:none; border-bottom:1px solid #831818; line-height:30px; margin:0}
+#menu li li a:hover, #menu li li a:active{background:#611312; color:#fff}
+#menu li ul{z-index:9999; position:absolute; left:-999em; height:auto; width:170px; margin:0; padding:0}
+#menu li ul ul{margin:-31px 0 0 170px}
+#catmenucontainer{display:block; font:12px verdana,Century gothic,Arial,sans-serif; font-weight:400; height:36px; text-transform:uppercase; padding:0}
+#catmenu{height:36px; margin:0; padding:0}
+#catmenu li a, #catmenu li a:link, #catmenu li a:visited{color:#CFCFCF; display:block; font-weight:400; text-shadow:1px 1px 1px #373B3F; padding:10px}
+#catmenu li a:hover, #catmenu li a:active{background:#FFF url(http://4.bp.blogspot.com/_9FoH-7_4Le0/S8y4j47C5FI/AAAAAAAABUg/FyNM-E2B-IY/s1600/catmenua.png) repeat-x; color:#4F4F4F; display:block; text-shadow:1px 1px 1px #ccc}
+#catmenu li li a, #catmenu li li a:link, #catmenu li li a:visited{background:#FFF; border-bottom:1px solid #D1D1D1; border-right:1px solid #D1D1D1; color:#4F4F4F; float:none; text-shadow:1px 1px 1px #ccc; width:130px; margin:0; padding:7px 10px}
+#catmenu li li a:hover, #catmenu li li a:active{background:#666; color:#fff; float:none; width:130px; text-shadow:1px 1px 1px #222; margin:0}
+#catmenu li ul{height:auto; left:-999em; position:absolute; width:170px; z-index:9999; margin:0; padding:0}
+#catmenu li ul ul{margin:-35px 0 0 170px}
+#search{width:275px; background:#151515; border:1px solid #363636; float:right; display:inline; margin:42px 20px 10px 0; padding:5px}
+#search fieldset{border:none; margin:0; padding:0}
+#search p{font-size:85%; margin:0}
+#s{width:200px; font:normal 100% Tahoma,Arial,Helvetica,sans-serif; color:#A09474; float:left; border:none; background:#151515; display:inline; margin:0 5px 0 0; padding:3px}
+input#searchsubmit{float:right; display:inline; height:22px; background:#c0221a; color:#fff; border:1px solid #d03e10; margin:0}
+.post{height:100%; color:#444; background:url(http://3.bp.blogspot.com/_9FoH-7_4Le0/S8y4jJWc-fI/AAAAAAAABUA/-6bkiNdPHj8/s1600/block2.png); border:1px solid #252525; overflow:hidden; margin:0 0 20px; padding:5px}
+.post img{max-width:670px}
+.post iframe{width:100%; max-width:670px}
+.title h2{font-weight:400; font-size:26px; font-family:Georgia,Myriad Pro,Verdana,Tahoma,sans-serif; margin:0 10px; padding:10px 0}
+.title-meta{font-size:10px; text-transform:uppercase; color:#fff; text-shadow:1px 1px 1px #222; margin:0 10px; padding:3px 0}
+.author{background:#EA1D22; padding:2px 5px}
+.clock{background:#EA1D22; margin-left:10px; padding:2px 5px}
+.com{line-height:16px; margin-left:10px; background:#EA1D22; padding:2px 5px}
+.hthumb{float:left; background:#F3F3F3; border:1px solid #ddd; margin:10px; padding:10px}
+.postinfo{font-size:13px; overflow:auto; padding:4px 5px 10px 10px}
+.postcat{float:left; color:#66851b; background-repeat:no-repeat; padding:0 0 0 20px}
+.postcover a:link, .postcover a:visited{color:#bbb; background-color:transparent}
+.postcover a:hover{color:#EA1D22; background-color:transparent; text-decoration:none}
+.postcover{line-height:22px; color:#bbb; margin:0; padding:0 10px}
+.postcover p{margin:5px 0 10px}
+.postcover img{max-width:625px; height:auto}
+.postcover ul{line-height:150%; list-style:square; margin:.4em 0 1em}
+.postcover ol{line-height:150%; margin:.4em 0 1em}
+.postcover ul li, .postcover ol li{list-style-position:outside; margin-left:1.6em}
+.postmetadata{padding:0 0 10px}
+#navigation{width:600px; padding-left:10px}
+h2.pagetitle{font-size:14px; font-weight:400; margin-right:10px; color:#6F6753; text-align:right; padding:10px 0}
+#footer{width:100%; background:#0C0C0C; position:relative; font-size:10px; border-top:1px solid #EA1D22; color:#999; padding:10px 0 20px}
+#footer a:link, #footer a:visited{color:#999}
+.fleft{float:left; text-align:left; line-height:16px; width:40%; margin:10px 0 0 10px}
+.fright{float:right; text-align:right; line-height:16px; width:40%; margin:10px 10px 0 0}
+.postad{float:left; margin:10px}
+.post-reaction{padding:10px 0 0}
+.reactions-label-cell{line-height:1.7em}
+p.comment-footer{padding:25px 0}
+h4#comment-post-message{width:620px!important; font-size:20px; font-family:Georgia,Tahoma,Arial,Century gothic,sans-serif; color:#eee; text-shadow:1px 1px 1px #000; font-weight:400; background:url(http://1.bp.blogspot.com/_9FoH-7_4Le0/S8y4iYvBsII/AAAAAAAABTo/sN_dlvRiNRs/s1600/sideblock.png); border:1px solid #252525; margin-top:10px; padding:10px}
+.comment-form{max-width:670px!important; width:650px!important; margin:25px 0 0}
+.comment-footer{padding:0 0 0 5px}
+a.comment-link{font-size:13px; margin:0}
+#blog-pager{text-align:center; padding:10px 0 25px}
+.feed-links{color:#bbb; padding:0}
+.fullpost a:link, .fullpost a:visited, .bigcom a:link, .bigcom a:visited, ol.commentlist li .comment-author .fn, .comment-nav a:link, .comment-nav a:visited, .title h2 a, .title h2 a:link, .title h2 a:visited, .title h2 a:hover, .clock a:link, .clock a:hover, .clock a:visited, .com a:link, .com a:visited{color:#fff}
+.sidebar ul ul ul, .sidebar ul ul ul ul{list-style-type:none; border:0; margin:0; padding:0}
+h3#comments, h4.backlinks{font-size:20px; font-family:Georgia,Tahoma,Arial,Century gothic,sans-serif; color:#eee; text-shadow:1px 1px 1px #000; font-weight:400; background:url(http://1.bp.blogspot.com/_9FoH-7_4Le0/S8y4iYvBsII/AAAAAAAABTo/sN_dlvRiNRs/s1600/sideblock.png); border:1px solid #252525; margin-top:10px; padding:10px}
+ol.commentlist li .comment-meta .commentmetadata, blockquote blockquote{color:#777}
+ol.commentlist li.odd, ol.commentlist li.even{background:#323232}
+ol.commentlist li ul.children li.depth-2, ol.commentlist li ul.children li.depth-3, ol.commentlist li ul.children li.depth-4, ol.commentlist li ul.children li.depth-5{border-left:1px solid #ccc18e; border-right:1px solid #fef8da; margin:0 0 0 50px}
+img.alignright, img.alignleft{display:inline; background:#E4E4E4; margin:0; padding:5px}
+.feeds ul, #search form, .title{margin:0; padding:0}
+#menu ul, #menu li, #catmenu ul, #catmenu li{float:left; list-style:none; margin:0; padding:0}
+#menu li ul a, #catmenu li ul a{width:140px}
+#menu li:hover ul ul, #menu li:hover ul ul ul, #menu li.sfhover ul ul, #menu li.sfhover ul ul ul, #catmenu li:hover ul ul, #catmenu li:hover ul ul ul, #catmenu li.sfhover1 ul ul, #catmenu li.sfhover1 ul ul ul{left:-999em}
+#menu li:hover ul, #menu li li:hover ul, #menu li li li:hover ul, #menu li.sfhover ul, #menu li li.sfhover ul, #menu li li li.sfhover ul, #catmenu li:hover ul, #catmenu li li:hover ul, #catmenu li li li:hover ul, #catmenu li.sfhover ul, #catmenu li li.sfhover1 ul, #catmenu li li li.sfhover1 ul{left:auto}
+#menu li:hover, #menu li.sfhover, #catmenu li:hover, #catmenu li.sfhover1{position:static}
+.postinfo a, .postcat a{color:#5A7516; font-weight:400; text-decoration:none}
+.topad{width:auto; height:60px; float:right; overflow:hidden; margin:20px 0 0}
+.article-accions{float:right; height:30px; position:relative; width:100%; margin:5px 0 15px}
+#share-button{list-style-type:none; list-style-position:inside; padding:0}
+#share-button li{border:0 none; float:none; position:absolute; top:5px}
+#share-button >li{opacity:0.5; float:left}
+#share-button >li:hover{opacity:1}
+#share-button li.twitter{left:0}
+#share-button li.gplus{left:120px}
+#share-button li.facebook{left:210px}
+#share-social{margin-top:15px; margin-right:5px}
+#share-social img{list-style:none; margin-left:2px; margin-right:2px; float:left}
+#share-social a img{border:none; opacity:0.75; filter:Alpha(opacity=75)}
+#share-social a:hover img{opacity:1; filter:Alpha(opacity=100)}
+.fb-like{height:30px; margin:5px 0}
+a:hover img{border:none; opacity:0.65; filter:Alpha(opacity=65)}
+#blog-pager{font-size:normal; clear:both; padding:10px 0}
+.showpageArea{font-family:Georgia,Arial,Tahoma,century gothic,sans-serif; color:#bbb; font-size:11px; margin:10px}
+.showpageArea a{color:#000; text-shadow:0 1px 2px #fff; font-weight:700}
+.showpageNum a{text-decoration:none; border:1px solid #999; -webkit-border-radius:3px; -moz-border-radius:3px; background:#ddd url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 -50px repeat-x; margin:0 4px; padding:3px 8px}
+.showpageNum a:hover{border:1px solid #888; background:#ccc url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 -25px repeat-x}
+.showpageOf{margin:0 4px 0 0}
+.showpagePoint{color:#fff; text-shadow:0 1px 2px #333; font-weight:700; -webkit-border-radius:3px; -moz-border-radius:3px; border:1px solid #999; background:#666 url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 0 repeat-x; text-decoration:none; margin:2px; padding:3px 8px}
+#related-posts{text-transform:none; height:100%; min-height:100%; padding-top:5px; padding-left:5px}
+#related-posts h2{font-size:18px; font-weight:400; color:#fff; font-family:Georgia,Arial,Tahoma,century gothic,sans-serif; margin-bottom:.75em; margin-top:10px; padding-top:5px}
+#related-posts a{color:#bbb}
+#related-posts a:hover{color:#EA1D22; background-color:#1c1c1c}
+.comments {margin-top: 0px!important;}
+.comments .comments-content .comment-content{text-align:left;} .comments .comments-content .inline-thread {background: #333; border:1px solid #252525;}.comments .comments-content .comment {border-bottom: 1px solid #252525!important;} .comments .avatar-image-container {background: url(http://4.bp.blogspot.com/-SGVRdTVEU_I/TZtDiTE9xNI/AAAAAAAAFYI/Oj8zWFsfs-Y/s1600/icono-persona-c.png) no-repeat center center; border:3px solid #252525;}
+ .comments .avatar-image-container, .comments .avatar-image-container 
+img { 
+-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px; }
